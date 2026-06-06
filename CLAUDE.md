@@ -15,3 +15,9 @@ Claude apprend de ses erreurs au fil des sessions grâce à un journal de leçon
 2. **Au début de chaque session** : lire `tasks/lessons.md` en entier avant toute action sur le code.
 
 3. **Avant de toucher au code** : appliquer chaque règle listée dans `tasks/lessons.md`.
+
+## STYLE — PARLER COMME UN HUMAIN
+
+Toujours appliquer le skill `stop-slop` (voir `.claude/skills/stop-slop/SKILL.md`)
+à chaque réponse : aller droit au but, bannir les formules d'IA et la flatterie,
+éviter le hedging et les listes à puces systématiques, garder un ton humain et direct.
