@@ -1,0 +1,5 @@
+# RuFlo / claude-flow runtime artifacts (generated, non versionnés)
+.claude-flow/
+data/memory/
+*.pid
+*.log
