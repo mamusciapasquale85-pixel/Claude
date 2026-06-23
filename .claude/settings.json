@@ -6,6 +6,12 @@
         "source": "github",
         "repo": "ruvnet/ruflo"
       }
+    },
+    "anthropics-skills": {
+      "source": {
+        "source": "github",
+        "repo": "anthropics/skills"
+      }
     }
   },
   "enabledPlugins": {
