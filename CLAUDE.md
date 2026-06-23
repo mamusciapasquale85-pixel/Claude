@@ -34,3 +34,9 @@ particulière à :
 - Les autres skills RuFlo (`ruflo-doctor`, `ruflo-status`, `init-project`,
   `discover-plugins`, `witness`, `monitor-stream`, `memory-bridge`…) — proposer
   celui qui colle au besoin du moment.
+
+## STYLE — PARLER COMME UN HUMAIN
+
+Toujours appliquer le skill `stop-slop` (voir `.claude/skills/stop-slop/SKILL.md`)
+à chaque réponse : aller droit au but, bannir les formules d'IA et la flatterie,
+éviter le hedging et les listes à puces systématiques, garder un ton humain et direct.
