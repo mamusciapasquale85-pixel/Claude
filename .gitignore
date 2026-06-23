@@ -1,0 +1,12 @@
+# RuFlo / claude-flow runtime artifacts (generated, non versionnés)
+.claude-flow/
+data/memory/
+*.pid
+*.log
+
+# Bases de données / index runtime (mémoire, AgentDB, RuVector)
+.claude/memory.db
+.swarm/
+*.rvf
+*.rvf.lock
+ruvector.db
